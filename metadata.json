@@ -1,0 +1,5 @@
+{
+  "name": "Payroll Data Auditor",
+  "description": "Compare payroll CSV files to ensure data integrity across Employee IDs, Earnings Codes, and Amounts.",
+  "requestFramePermissions": []
+}
